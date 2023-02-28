@@ -56,3 +56,7 @@ Estas são as bibliotecas usadas neste projeto:
 
 - pandas
 - plotly
+
+## Visualize o Notebook
+
+Você pode visualizar este notebook no site do Jupyter nbviewer clicando neste [link](https://nbviewer.org/github/diego-torres-coder/Analise-de-Dados-de-Empresa-de-Telecomunicacoes/blob/master/Analise%20de%20Dados%20de%20Empresa%20de%20Telecomunicacoes.ipynb).
